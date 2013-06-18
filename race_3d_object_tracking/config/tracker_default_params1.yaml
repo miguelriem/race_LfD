@@ -1,0 +1,11 @@
+#Default parameters for the particle filter tracking 
+color_r: 1
+color_g: 0
+color_b: 0
+color_a: 0.7
+object_pcd_file: /tmp/obj2.pcd
+parent_frame_id: /openni_rgb_optical_frame
+delta: 0.2
+maxparticlenum: 600
+epsilon: 0.3
+bin: 0.1

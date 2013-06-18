@@ -1,0 +1,24 @@
+<package>
+  <description brief="race_3d_object_tracking">
+
+     race_3d_object_tracking
+
+  </description>
+  <author>MiguelOliveira</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/race_3d_object_tracking</url>
+  <depend package="roscpp"/>
+  <depend package="rospy"/>
+  <depend package="tf"/>
+  <depend package="pcl17_ros"/>
+  <depend package="pcl17"/>
+  <depend package="pc_processing"/>
+
+  <export>
+    <cpp cflags="-I${prefix}/include " lflags="-L${prefix}/lib -lrace_3d_object_tracking" />
+	</export>
+
+</package>
+
+

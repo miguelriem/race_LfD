@@ -1,0 +1,27 @@
+<package>
+  <description brief="pc_processing">
+
+     pc_processing
+
+  </description>
+  <author>MiguelOliveira</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/pc_processing</url>
+  <depend package="roscpp"/>
+  <depend package="rospy"/>
+  <depend package="tf"/>
+  <depend package="pcl17_ros"/>
+  <depend package="pcl17"/>
+
+  <!--<depend package="pcl_ros"/>-->
+  <!--<depend package="pcl"/>-->
+  <depend package="visualization_msgs"/>
+
+<export>
+    <cpp cflags="-I${prefix}/include " lflags="-L${prefix}/lib -lpc_processing" />
+</export>
+
+</package>
+
+

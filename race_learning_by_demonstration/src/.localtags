@@ -1,0 +1,56 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+CONVEX_HULL	main.cpp	/^	PointCloudPtr_T CONVEX_HULL = ((pcm.find("convex_hull"))->second);$/;"	l
+DEBUG	main.cpp	11;"	d	file:
+IN	main.cpp	/^	PointCloudPtr_T IN = ((pcm.find("in"))->second);$/;"	l
+IN_DOWNSAMPLED	main.cpp	/^	PointCloudPtr_T IN_DOWNSAMPLED = ((pcm.find("in_downsampled"))->second);$/;"	l
+IN_Z_FILTERED	main.cpp	/^	PointCloudPtr_T IN_Z_FILTERED = ((pcm.find("in_z_filtered"))->second);$/;"	l
+MapIterator_T	main.cpp	/^typedef std::map< std::string, PointCloudPtr_T>::iterator MapIterator_T;$/;"	t	file:
+Map_T	main.cpp	/^typedef std::map< std::string, PointCloudPtr_T> Map_T;$/;"	t	file:
+OBJECTS_ON_TABLE	main.cpp	/^	PointCloudPtr_T OBJECTS_ON_TABLE = ((pcm.find("objects_on_table"))->second);$/;"	l
+PFLN	main.cpp	12;"	d	file:
+PointCloudPtr_T	main.cpp	/^typedef pcl::PointCloud<pcl::PointXYZRGB>::Ptr PointCloudPtr_T;$/;"	t	file:
+PointCloud_T	main.cpp	/^typedef pcl::PointCloud<pcl::PointXYZRGB> PointCloud_T;$/;"	t	file:
+SUCCESS	main.cpp	10;"	d	file:
+TABLE	main.cpp	/^	PointCloudPtr_T TABLE = ((pcm.find("table"))->second);$/;"	l
+TABLE2D	main.cpp	/^	PointCloudPtr_T TABLE2D = ((pcm.find("table2D"))->second);$/;"	l
+TABLE_PLANE	main.cpp	/^	PointCloudPtr_T TABLE_PLANE = ((pcm.find("table_plane"))->second);$/;"	l
+_MAIN_H_	main.h	2;"	d
+callback_pc_received	main.cpp	/^void callback_pc_received(const sensor_msgs::PointCloud2Ptr& pcmsg_in)$/;"	f	signature:(const sensor_msgs::PointCloud2Ptr& pcmsg_in)
+coefficients	main.cpp	/^	pcl::ModelCoefficients::Ptr coefficients (new pcl::ModelCoefficients);$/;"	p	file:	signature:(new pcl::ModelCoefficients)
+init	main.cpp	/^	ros::init(argc, argv, "learning_by_demonstration"); \/\/ Initialize ROS coms$/;"	p	class:ros	file:	signature:(argc, argv, Ó)
+main	main.cpp	/^int main(int argc, char **argv)$/;"	f	signature:(int argc, char **argv)
+marker	main.cpp	/^	visualization_msgs::Marker marker;$/;"	l
+marker_pub1	main.cpp	/^	ros::Publisher marker_pub1 = n.advertise<visualization_msgs::Marker>("\/table_polygon", 1); p_marker_pub1 = &marker_pub1;$/;"	l
+msg	main.cpp	/^	sensor_msgs::PointCloud2 msg; $/;"	l
+p	main.cpp	/^	geometry_msgs::Point p;$/;"	l
+p_marker_pub1	main.cpp	/^ros::Publisher* p_marker_pub1;$/;"	v
+p_pub_pc1	main.cpp	/^ros::Publisher* p_pub_pc1;$/;"	v
+p_pub_pc2	main.cpp	/^ros::Publisher* p_pub_pc2;$/;"	v
+p_pub_pc3	main.cpp	/^ros::Publisher* p_pub_pc3;$/;"	v
+p_pub_pc4	main.cpp	/^ros::Publisher* p_pub_pc4;$/;"	v
+p_pub_pc5	main.cpp	/^ros::Publisher* p_pub_pc5;$/;"	v
+p_pub_pc6	main.cpp	/^ros::Publisher* p_pub_pc6;$/;"	v
+pcm	main.cpp	/^Map_T pcm; \/\/create a map struct to contain all point clouds$/;"	v
+pub_pc1	main.cpp	/^	ros::Publisher pub_pc1 = n.advertise<sensor_msgs::PointCloud2>("\/pc_out\/distance", 1); p_pub_pc1 = &pub_pc1;$/;"	l
+pub_pc2	main.cpp	/^	ros::Publisher pub_pc2 = n.advertise<sensor_msgs::PointCloud2>("\/pc_out\/plane", 1); p_pub_pc2 = &pub_pc2;$/;"	l
+pub_pc3	main.cpp	/^	ros::Publisher pub_pc3 = n.advertise<sensor_msgs::PointCloud2>("\/pc_out\/table", 1);	p_pub_pc3 = &pub_pc3;$/;"	l
+pub_pc4	main.cpp	/^	ros::Publisher pub_pc4 = n.advertise<sensor_msgs::PointCloud2>("\/pc_out\/table2D", 1); p_pub_pc4 = &pub_pc4;$/;"	l
+pub_pc5	main.cpp	/^	ros::Publisher pub_pc5 = n.advertise<sensor_msgs::PointCloud2>("\/pc_out\/chull", 1);	p_pub_pc5 = &pub_pc5;$/;"	l
+pub_pc6	main.cpp	/^	ros::Publisher pub_pc6 = n.advertise<sensor_msgs::PointCloud2>("\/pc_out\/objects_on_table", 1); p_pub_pc6 = &pub_pc6;$/;"	l
+publish	main.cpp	/^	p_marker_pub1->publish( marker );$/;"	p	file:	signature:( marker )
+publish	main.cpp	/^	pcl::toROSMsg(*CONVEX_HULL,msg);   		p_pub_pc5->publish(msg);$/;"	p	file:	signature:(msg)
+publish	main.cpp	/^	pcl::toROSMsg(*IN_Z_FILTERED,msg); 		p_pub_pc1->publish(msg);$/;"	p	file:	signature:(msg)
+publish	main.cpp	/^	pcl::toROSMsg(*OBJECTS_ON_TABLE,msg);	p_pub_pc6->publish(msg);$/;"	p	file:	signature:(msg)
+publish	main.cpp	/^	pcl::toROSMsg(*TABLE,msg);         		p_pub_pc3->publish(msg);$/;"	p	file:	signature:(msg)
+publish	main.cpp	/^	pcl::toROSMsg(*TABLE2D,msg);       		p_pub_pc4->publish(msg);$/;"	p	file:	signature:(msg)
+publish	main.cpp	/^	pcl::toROSMsg(*TABLE_PLANE,msg);   		p_pub_pc2->publish(msg);$/;"	p	file:	signature:(msg)
+push_back	main.cpp	/^		marker.points.push_back(p);$/;"	p	file:	signature:(p)
+ros::init	main.cpp	/^	ros::init(argc, argv, "learning_by_demonstration"); \/\/ Initialize ROS coms$/;"	p	class:ros	file:	signature:(argc, argv, Ó)
+ros::spin	main.cpp	/^	ros::spin();$/;"	p	class:ros	file:	signature:()
+spin	main.cpp	/^	ros::spin();$/;"	p	class:ros	file:	signature:()
+sub_pc	main.cpp	/^	ros::Subscriber sub_pc = n.subscribe ("\/openni\/depth_registered\/points", 1, callback_pc_received);$/;"	l

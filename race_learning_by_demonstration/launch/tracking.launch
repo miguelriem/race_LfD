@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<launch>
+	<!-- This is a launch file for the race_learning_by_demonstration package
+	Launches the openni camera, required for getting the point clouds-->
+
+	<!-- Launch openni camera -->
+	 <include file="$(find openni_launch)/launch/openni.launch">
+	<arg name="depth_registration" value="true"/>
+	</include>
+
+	<!-- Launch openni tracker -->
+	<node pkg="openni_tracker" type="openni_tracker" name="openni_tracker" args="" output="screen">
+	<param name="camera_frame_id" type="string" value="/camera_depth_frame" />
+	</node>
+
+	<!-- Launch rviz with the propper parameters for loading the atlascar rviz configuration file -->
+
+</launch>

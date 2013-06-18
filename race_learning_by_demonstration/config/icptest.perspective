@@ -1,0 +1,66 @@
+{
+  "keys": {}, 
+  "groups": {
+    "pluginmanager": {
+      "keys": {
+        "running-plugins": {
+          "type": "repr", 
+          "repr": "{u'rqt_rviz/RViz': [1], u'rqt_bag/Bag': [1]}"
+        }
+      }, 
+      "groups": {
+        "plugin__rqt_rviz__RViz__1": {
+          "keys": {}, 
+          "groups": {
+            "dock_widget__": {
+              "keys": {
+                "dockable": {
+                  "type": "repr", 
+                  "repr": "True"
+                }, 
+                "parent": {
+                  "type": "repr", 
+                  "repr": "None"
+                }
+              }, 
+              "groups": {}
+            }
+          }
+        }, 
+        "plugin__rqt_bag__Bag__1": {
+          "keys": {}, 
+          "groups": {
+            "dock_widget__BagWidget": {
+              "keys": {
+                "dockable": {
+                  "type": "repr", 
+                  "repr": "True"
+                }, 
+                "parent": {
+                  "type": "repr", 
+                  "repr": "None"
+                }
+              }, 
+              "groups": {}
+            }
+          }
+        }
+      }
+    }, 
+    "mainwindow": {
+      "keys": {
+        "geometry": {
+          "type": "repr(QByteArray.hex)", 
+          "repr(QByteArray.hex)": "QtCore.QByteArray('01d9d0cb00010000000000000000001800000555000002e7000000010000003400000554000002e6000000000000')", 
+          "pretty-print": "         U     4 T     "
+        }, 
+        "state": {
+          "type": "repr(QByteArray.hex)", 
+          "repr(QByteArray.hex)": "QtCore.QByteArray('000000ff00000000fd00000001000000030000055400000284fc0100000002fc0000000000000554000002bf00fffffffc0200000002fb00000034007200710074005f006200610067005f005f004200610067005f005f0031005f005f0042006100670057006900640067006500740100000019000000970000009700fffffffb00000026007200710074005f007200760069007a005f005f005200560069007a005f005f0031005f005f01000000b6000001e70000017d00fffffffb00000034007200710074005f0070006100720061006d005f005f0050006100720061006d005f005f0031005f005f0050006100720061006d01000003c6000001900000000000000000000005540000000000000004000000040000000800000008fc00000000')", 
+          "pretty-print": "                   T                                                                       }                                        T            "
+        }
+      }, 
+      "groups": {}
+    }
+  }
+}

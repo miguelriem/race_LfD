@@ -1,0 +1,262 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	193;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	196;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	199;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	202;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	206;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	181;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	184;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	187;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	190;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	194;"	d	file:
+CMAKE_BINARY_DIR	build/Makefile	/^CMAKE_BINARY_DIR = \/home\/mike\/workingcopy\/race_learning_by_demonstration\/build$/;"	m
+CMAKE_COMMAND	build/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	build/Makefile	/^CMAKE_SOURCE_DIR = \/home\/mike\/workingcopy\/race_learning_by_demonstration$/;"	m
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	10;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	13;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	16;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	19;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	22;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	25;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	28;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	32;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	34;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	36;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	40;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	43;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	46;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	49;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	52;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	55;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	58;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	61;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	66;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	77;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	80;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	86;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	89;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	92;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	12;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	18;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	30;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	34;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	36;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	38;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	42;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	45;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	48;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	51;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	54;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	57;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	60;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	68;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	74;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	77;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	80;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	9;"	d	file:
+CONVEX_HULL	src/main.cpp	/^	PointCloudPtr_T CONVEX_HULL = ((pcm.find("convex_hull"))->second);$/;"	l
+DEBUG	src/main.h	28;"	d
+ID_VOID_MAIN	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	6;"	d	file:
+IN	src/main.cpp	/^	PointCloudPtr_T IN = ((pcm.find("in"))->second);$/;"	l
+IN_DOWNSAMPLED	src/main.cpp	/^	PointCloudPtr_T IN_DOWNSAMPLED = ((pcm.find("in_downsampled"))->second);$/;"	l
+IN_DOWNSAMPLED_1	src/main.cpp	/^	PointCloudPtr_T IN_DOWNSAMPLED_1 = ((pcm.find("in_downsampled_1"))->second);$/;"	l
+IN_Z_FILTERED	src/main.cpp	/^	PointCloudPtr_T IN_Z_FILTERED = ((pcm.find("in_z_filtered"))->second);$/;"	l
+MapIterator_T	src/main.h	/^typedef std::map< std::string, PointCloudPtr_T>::iterator MapIterator_T;$/;"	t
+Map_T	src/main.h	/^typedef std::map< std::string, PointCloudPtr_T> Map_T;$/;"	t
+OBJECTS	src/main.h	/^_EXTERN_ std::vector<PointCloudPtr_T> OBJECTS; \/\/a std vector of point cloud smart pointers to store all objects on the table$/;"	v
+OBJECTS_ON_TABLE	src/main.cpp	/^	PointCloudPtr_T OBJECTS_ON_TABLE = ((pcm.find("objects_on_table"))->second);$/;"	l
+PFLN	src/main.h	29;"	d
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	104;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	107;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	110;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	113;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	116;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	119;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	122;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	125;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	128;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	131;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	134;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	137;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	140;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	146;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	149;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	152;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	155;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	158;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	161;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	164;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	167;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	170;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	173;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	176;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	179;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	182;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	101;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	107;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	113;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	116;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	128;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	134;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	140;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	143;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	149;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	152;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	158;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	164;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	170;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	92;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	95;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+PointCloudPtr_T	src/main.h	/^typedef pcl::PointCloud<Point_T>::Ptr PointCloudPtr_T;$/;"	t
+PointCloud_T	src/main.h	/^typedef pcl::PointCloud<Point_T> PointCloud_T;$/;"	t
+Point_T	src/main.h	/^typedef plc::PointXYZRGB Point_T;$/;"	t
+RM	build/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+SHELL	build/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SUCCESS	src/main.h	27;"	d
+SUFFIXES	build/Makefile	/^SUFFIXES =$/;"	m
+TABLE	src/main.cpp	/^	PointCloudPtr_T TABLE = ((pcm.find("table"))->second);$/;"	l
+TABLE2D	src/main.cpp	/^	PointCloudPtr_T TABLE2D = ((pcm.find("table2D"))->second);$/;"	l
+TABLE_PLANE	src/main.cpp	/^	PointCloudPtr_T TABLE_PLANE = ((pcm.find("table_plane"))->second);$/;"	l
+_EXTERN_	src/main.h	56;"	d
+_EXTERN_	src/main.h	58;"	d
+_MAIN_AUXILIARY_CPP_	src/main_auxiliary.cpp	2;"	d	file:
+_MAIN_CPP_	src/main.cpp	2;"	d	file:
+_MAIN_H_	src/main.h	2;"	d
+c_object_data	src/main.h	/^class c_object_data$/;"	c
+c_object_data::centroid	src/main.h	/^	Eigen::Vector4f centroid;$/;"	m	class:c_object_data	access:public
+c_object_data::is_pointed_to	src/main.h	/^	bool is_pointed_to;$/;"	m	class:c_object_data	access:public
+c_object_data::sphere_radius	src/main.h	/^	double sphere_radius;$/;"	m	class:c_object_data	access:public
+callback_obj1_received	src/icp_test.cpp	/^void callback_obj1_received(const sensor_msgs::PointCloud2Ptr& pcmsg_in)$/;"	f	signature:(const sensor_msgs::PointCloud2Ptr& pcmsg_in)
+callback_objects_on_table_received	src/icp_test.cpp	/^void callback_objects_on_table_received(const sensor_msgs::PointCloud2Ptr& pcmsg_in)$/;"	f	signature:(const sensor_msgs::PointCloud2Ptr& pcmsg_in)
+callback_pc_received	src/main.cpp	/^void callback_pc_received(const sensor_msgs::PointCloud2Ptr& pcmsg_in)$/;"	f	signature:(const sensor_msgs::PointCloud2Ptr& pcmsg_in)
+centroid	src/main.h	/^	Eigen::Vector4f centroid;$/;"	m	class:c_object_data	access:public
+cloud_aligned	src/icp_test.cpp	/^pcl::PointCloud<pcl::PointXYZ>::Ptr cloud_aligned;$/;"	v
+cloud_obj_to_track	src/icp_test.cpp	/^pcl::PointCloud<pcl::PointXYZ>::Ptr cloud_obj_to_track;$/;"	v
+cloud_objects_on_table	src/icp_test.cpp	/^pcl::PointCloud<pcl::PointXYZ>::Ptr cloud_objects_on_table;$/;"	v
+cm	src/main.h	/^_EXTERN_ boost::shared_ptr<class_colormap_utils> cm;$/;"	v
+coefficients	src/main.cpp	/^	pcl::ModelCoefficients::Ptr coefficients (new pcl::ModelCoefficients);$/;"	p	file:	signature:(new pcl::ModelCoefficients)
+endl	src/icp_test.cpp	/^		std::cout << "has converged:" << icp.hasConverged() << " score: " << icp.getFitnessScore() << std::endl;$/;"	m	class:std	file:
+endl	src/icp_test.cpp	/^		std::cout << icp.getFinalTransformation() << std::endl;$/;"	m	class:std	file:
+erase	src/main.cpp	/^		marker.points.erase(marker.points.begin(), marker.points.end());$/;"	p	file:	signature:(marker.points.begin(), marker.points.end())
+erase	src/main.cpp	/^	marker_array.markers.erase(marker_array.markers.begin(), marker_array.markers.end());$/;"	p	file:	signature:(marker_array.markers.begin(), marker_array.markers.end())
+icp	src/icp_test.cpp	/^		pcl::IterativeClosestPoint<pcl::PointXYZ, pcl::PointXYZ> icp;$/;"	l
+info_arch	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_platform	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+init	src/icp_test.cpp	/^	ros::init(argc, argv, "learning_by_demonstration"); \/\/ Initialize ROS coms$/;"	p	class:ros	file:	signature:(argc, argv, Ó)
+init	src/main.cpp	/^	ros::init(argc, argv, "learning_by_demonstration"); \/\/ Initialize ROS coms$/;"	p	class:ros	file:	signature:(argc, argv, Ó)
+is_pointed_to	src/main.h	/^	bool is_pointed_to;$/;"	m	class:c_object_data	access:public
+iteration	src/main.cpp	/^size_t iteration=0;$/;"	v
+line_segment_global	src/main.h	/^_EXTERN_ PointCloudPtr_T line_segment_global;$/;"	v
+line_segment_local	src/main.h	/^_EXTERN_ PointCloudPtr_T line_segment_local;$/;"	v
+main	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^int main(int argc, char* argv[])$/;"	f	signature:(int argc, char* argv[])
+main	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f	signature:(int argc, char* argv[])
+main	src/icp_test.cpp	/^int main (int argc, char** argv)$/;"	f	signature:(int argc, char** argv)
+main	src/main.cpp	/^int main(int argc, char **argv)$/;"	f	signature:(int argc, char **argv)
+marker	src/main.cpp	/^		visualization_msgs::Marker marker;$/;"	l
+marker	src/main.cpp	/^	visualization_msgs::Marker marker;$/;"	l
+marker_array	src/main.h	/^_EXTERN_ visualization_msgs::MarkerArray marker_array; \/\/global variable with the marker array.$/;"	v
+marker_pub1	src/main.cpp	/^	ros::Publisher marker_pub1 = n.advertise<visualization_msgs::Marker>("\/table_polygon", 1); p_marker_pub1 = &marker_pub1;$/;"	l
+marker_pub2	src/main.cpp	/^	ros::Publisher marker_pub2 = n.advertise<visualization_msgs::Marker>("\/hand_virtual_extension", 1); p_marker_pub2 = &marker_pub2;$/;"	l
+marker_pub3	src/main.cpp	/^	ros::Publisher marker_pub3 = n.advertise<visualization_msgs::Marker>("\/obj1_center", 1); p_marker_pub3 = &marker_pub3;$/;"	l
+marker_publisher	src/main.cpp	/^	ros::Publisher marker_publisher = n.advertise<visualization_msgs::MarkerArray>("\/LBD", 1); p_marker_publisher = &marker_publisher;$/;"	l
+msg	src/icp_test.cpp	/^		sensor_msgs::PointCloud2 msg; $/;"	l
+msg	src/main.cpp	/^	sensor_msgs::PointCloud2 msg; $/;"	l
+obj_data	src/main.h	/^_EXTERN_ std::vector<boost::shared_ptr<c_object_data> > obj_data;$/;"	v
+p	src/main.cpp	/^		geometry_msgs::Point p;$/;"	l
+p_marker_pub1	src/main.h	/^_EXTERN_ ros::Publisher* p_marker_pub1;$/;"	v
+p_marker_pub2	src/main.h	/^_EXTERN_ ros::Publisher* p_marker_pub2;$/;"	v
+p_marker_pub3	src/main.h	/^_EXTERN_ ros::Publisher* p_marker_pub3;$/;"	v
+p_marker_publisher	src/main.h	/^_EXTERN_ ros::Publisher* p_marker_publisher;$/;"	v
+p_pub_pc1	src/icp_test.cpp	/^ros::Publisher* p_pub_pc1;$/;"	v
+p_pub_pc1	src/main.h	/^_EXTERN_ ros::Publisher* p_pub_pc1;$/;"	v
+p_pub_pc2	src/icp_test.cpp	/^ros::Publisher* p_pub_pc2;$/;"	v
+p_pub_pc2	src/main.h	/^_EXTERN_ ros::Publisher* p_pub_pc2;$/;"	v
+p_pub_pc3	src/main.h	/^_EXTERN_ ros::Publisher* p_pub_pc3;$/;"	v
+p_pub_pc4	src/main.h	/^_EXTERN_ ros::Publisher* p_pub_pc4;$/;"	v
+p_pub_pc5	src/main.h	/^_EXTERN_ ros::Publisher* p_pub_pc5;$/;"	v
+p_pub_pc6	src/main.h	/^_EXTERN_ ros::Publisher* p_pub_pc6;$/;"	v
+p_pub_pc_obj1	src/main.h	/^_EXTERN_ ros::Publisher* p_pub_pc_obj1;$/;"	v
+p_pub_pc_obj2	src/main.h	/^_EXTERN_ ros::Publisher* p_pub_pc_obj2;$/;"	v
+p_pub_pc_obj3	src/main.h	/^_EXTERN_ ros::Publisher* p_pub_pc_obj3;$/;"	v
+p_tf_listener	src/main.h	/^_EXTERN_ tf::TransformListener* p_tf_listener;$/;"	v
+pcm	src/main.h	/^_EXTERN_ Map_T pcm; \/\/create a map struct to contain all point clouds$/;"	v
+pointing_size	src/main.cpp	/^	double pointing_size = 0.2; \/*meters*\/$/;"	l
+pt1	src/main.cpp	/^	pcl::PointXYZ pt1, pt2;$/;"	l
+pt2	src/main.cpp	/^	pcl::PointXYZ pt1, pt2;$/;"	l
+pub_pc1	src/icp_test.cpp	/^	ros::Publisher pub_pc1 = n.advertise<sensor_msgs::PointCloud2>("\/pc_out\/aligned", 1); p_pub_pc1 = &pub_pc1;$/;"	l
+pub_pc1	src/main.cpp	/^	ros::Publisher pub_pc1 = n.advertise<sensor_msgs::PointCloud2>("\/pc_out\/distance", 1); p_pub_pc1 = &pub_pc1;$/;"	l
+pub_pc2	src/icp_test.cpp	/^	ros::Publisher pub_pc2 = n.advertise<sensor_msgs::PointCloud2>("\/pc_out\/object_to_track", 1); p_pub_pc2 = &pub_pc2;$/;"	l
+pub_pc2	src/main.cpp	/^	ros::Publisher pub_pc2 = n.advertise<sensor_msgs::PointCloud2>("\/pc_out\/plane", 1); p_pub_pc2 = &pub_pc2;$/;"	l
+pub_pc3	src/main.cpp	/^	ros::Publisher pub_pc3 = n.advertise<sensor_msgs::PointCloud2>("\/pc_out\/table", 1);	p_pub_pc3 = &pub_pc3;$/;"	l
+pub_pc4	src/main.cpp	/^	ros::Publisher pub_pc4 = n.advertise<sensor_msgs::PointCloud2>("\/pc_out\/table2D", 1); p_pub_pc4 = &pub_pc4;$/;"	l
+pub_pc5	src/main.cpp	/^	ros::Publisher pub_pc5 = n.advertise<sensor_msgs::PointCloud2>("\/pc_out\/chull", 1);	p_pub_pc5 = &pub_pc5;$/;"	l
+pub_pc6	src/main.cpp	/^	ros::Publisher pub_pc6 = n.advertise<sensor_msgs::PointCloud2>("\/pc_out\/objects_on_table", 1); p_pub_pc6 = &pub_pc6;$/;"	l
+pub_pc_obj1	src/main.cpp	/^	ros::Publisher pub_pc_obj1 = n.advertise<sensor_msgs::PointCloud2>("\/pc_out\/obj1", 1); p_pub_pc_obj1 = &pub_pc_obj1;$/;"	l
+pub_pc_obj2	src/main.cpp	/^	ros::Publisher pub_pc_obj2 = n.advertise<sensor_msgs::PointCloud2>("\/pc_out\/obj2", 1); p_pub_pc_obj2 = &pub_pc_obj2;$/;"	l
+pub_pc_obj3	src/main.cpp	/^	ros::Publisher pub_pc_obj3 = n.advertise<sensor_msgs::PointCloud2>("\/pc_out\/obj3", 1); p_pub_pc_obj3 = &pub_pc_obj3;$/;"	l
+publish	src/icp_test.cpp	/^		p_pub_pc1->publish(msg);$/;"	p	file:	signature:(msg)
+publish	src/icp_test.cpp	/^		p_pub_pc2->publish(msg);$/;"	p	file:	signature:(msg)
+publish	src/main.cpp	/^		pcl::toROSMsg(*OBJECTS.at(0),msg);	p_pub_pc_obj1->publish(msg);$/;"	p	file:	signature:(msg)
+publish	src/main.cpp	/^	p_marker_publisher->publish( marker_array );$/;"	p	file:	signature:( marker_array )
+publish	src/main.cpp	/^	pcl::toROSMsg(*CONVEX_HULL,msg);   		p_pub_pc5->publish(msg);$/;"	p	file:	signature:(msg)
+publish	src/main.cpp	/^	pcl::toROSMsg(*IN_Z_FILTERED,msg); 		p_pub_pc1->publish(msg);$/;"	p	file:	signature:(msg)
+publish	src/main.cpp	/^	pcl::toROSMsg(*OBJECTS_ON_TABLE,msg);	p_pub_pc6->publish(msg);$/;"	p	file:	signature:(msg)
+publish	src/main.cpp	/^	pcl::toROSMsg(*TABLE,msg);         		p_pub_pc3->publish(msg);$/;"	p	file:	signature:(msg)
+publish	src/main.cpp	/^	pcl::toROSMsg(*TABLE2D,msg);       		p_pub_pc4->publish(msg);$/;"	p	file:	signature:(msg)
+publish	src/main.cpp	/^	pcl::toROSMsg(*TABLE_PLANE,msg);   		p_pub_pc2->publish(msg);$/;"	p	file:	signature:(msg)
+push_back	src/main.cpp	/^			marker.points.push_back(p);$/;"	p	file:	signature:(p)
+push_back	src/main.cpp	/^			obj_data.push_back(tmp);$/;"	p	file:	signature:(tmp)
+push_back	src/main.cpp	/^		marker_array.markers.push_back(marker);$/;"	p	file:	signature:(marker)
+push_back	src/main.cpp	/^	line_segment_local->points.push_back(pt1);$/;"	p	file:	signature:(pt1)
+push_back	src/main.cpp	/^	line_segment_local->points.push_back(pt2);$/;"	p	file:	signature:(pt2)
+push_back	src/main.cpp	/^	marker_array.markers.push_back(marker);$/;"	p	file:	signature:(marker)
+received_obj1	src/icp_test.cpp	/^bool received_obj1=false;$/;"	v
+require	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^  int require = 0;$/;"	l
+require	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  int require = 0;$/;"	l
+ros::init	src/icp_test.cpp	/^	ros::init(argc, argv, "learning_by_demonstration"); \/\/ Initialize ROS coms$/;"	p	class:ros	file:	signature:(argc, argv, Ó)
+ros::init	src/main.cpp	/^	ros::init(argc, argv, "learning_by_demonstration"); \/\/ Initialize ROS coms$/;"	p	class:ros	file:	signature:(argc, argv, Ó)
+ros::spin	src/icp_test.cpp	/^	ros::spin();$/;"	p	class:ros	file:	signature:()
+ros::spin	src/main.cpp	/^	ros::spin();$/;"	p	class:ros	file:	signature:()
+setInputCloud	src/icp_test.cpp	/^		icp.setInputCloud(cloud_obj_to_track);$/;"	p	file:	signature:(cloud_obj_to_track)
+setInputTarget	src/icp_test.cpp	/^		icp.setInputTarget(cloud_objects_on_table);$/;"	p	file:	signature:(cloud_objects_on_table)
+sphere_radius	src/main.h	/^	double sphere_radius;$/;"	m	class:c_object_data	access:public
+spin	src/icp_test.cpp	/^	ros::spin();$/;"	p	class:ros	file:	signature:()
+spin	src/main.cpp	/^	ros::spin();$/;"	p	class:ros	file:	signature:()
+sstm	src/main.cpp	/^		std::stringstream sstm;$/;"	l
+std::endl	src/icp_test.cpp	/^		std::cout << "has converged:" << icp.hasConverged() << " score: " << icp.getFitnessScore() << std::endl;$/;"	m	class:std	file:
+std::endl	src/icp_test.cpp	/^		std::cout << icp.getFinalTransformation() << std::endl;$/;"	m	class:std	file:
+sub_pc	src/icp_test.cpp	/^	ros::Subscriber sub_pc = n.subscribe ("\/pc_out\/obj1", 1, callback_obj1_received);$/;"	l
+sub_pc	src/main.cpp	/^	ros::Subscriber sub_pc = n.subscribe ("\/openni\/depth_registered\/points", 1, callback_pc_received);$/;"	l
+sub_pc1	src/icp_test.cpp	/^	ros::Subscriber sub_pc1 = n.subscribe ("\/pc_out\/objects_on_table", 1, callback_objects_on_table_received);$/;"	l
+t	src/icp_test.cpp	/^	ros::Time t = ros::Time::now();$/;"	l
+t	src/main.cpp	/^	ros::Time t = ros::Time::now();$/;"	l
+tf_listener	src/main.cpp	/^	tf::TransformListener tf_listener; p_tf_listener = &tf_listener;$/;"	l
+tmp	src/main.cpp	/^			boost::shared_ptr<c_object_data> tmp = (boost::shared_ptr<c_object_data>) new c_object_data;$/;"	l
+transform	src/main.cpp	/^	tf::StampedTransform transform;$/;"	l
+vector	src/main.cpp	/^	double vector[3];$/;"	l

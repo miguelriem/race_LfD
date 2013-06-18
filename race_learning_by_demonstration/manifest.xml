@@ -1,0 +1,27 @@
+<package>
+  <description brief="race_learning_by_demonstration">
+
+     race_learning_by_demonstration
+
+  </description>
+  <author>MiguelOliveira</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/race_learning_by_demonstration</url>
+  <depend package="roscpp"/>
+  <depend package="sensor_msgs"/>
+  <depend package="rospy"/>
+  <depend package="tf"/>
+  <depend package="pcl17_ros"/>
+  <depend package="pcl17"/>
+  <!--<depend package="pcl_ros"/>-->
+  <!--<depend package="pcl"/>-->
+  <depend package="visualization_msgs"/>
+  <depend package="pc_processing"/>
+  <depend package="colormap_utils"/>
+  <depend package="race_3d_object_tracking"/>
+  <depend package="tabletop_object_detector"/>
+
+</package>
+
+

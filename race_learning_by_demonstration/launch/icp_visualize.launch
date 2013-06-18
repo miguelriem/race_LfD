@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<launch>
+	<!-- This is a launch file for the race_learning_by_demonstration package
+	-->
+	<!-- Launch rviz with the propper parameters for loading the atlascar rviz configuration file -->
+	<node name="rviz" pkg="rviz" type="rviz" args="--display-config $(find race_learning_by_demonstration)/config/icptest.vcg">
+	<!--<remap from="tf" to="/trf/frames"/>-->
+	</node>
+
+</launch>

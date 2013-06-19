@@ -517,7 +517,10 @@ int get_max_group_from_clustering(boost::shared_ptr<pcl17::PointCloud<T> > pc_in
 		j++;
 	}
 
-	return 1;
+	if (pc_out->points.size()<5)
+		return 0;
+	else
+		return 1;
 }
 
 	template <typename T>

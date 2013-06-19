@@ -1,0 +1,25 @@
+<package>
+<description brief="race_tabletop_segmentation">
+
+race_tabletop_segmentation
+
+</description>
+<author>MiguelOliveira</author>
+<license>BSD</license>
+<review status="unreviewed" notes=""/>
+<url>http://ros.org/wiki/race_tabletop_segmentation</url>
+<depend package="roscpp"/>
+<depend package="tf"/>
+<depend package="pcl17_ros"/>
+<depend package="pcl17"/>
+<depend package="pc_processing"/>
+<depend package="nodelet"/>
+<depend package="tabletop_object_detector"/>
+  <depend package="colormap_utils"/>
+<export>
+<cpp cflags="-I${prefix}/include " lflags="-L${prefix}/lib -lrace_tabletop_segmentation" />
+</export>
+
+</package>
+
+

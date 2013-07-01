@@ -1,0 +1,25 @@
+<!--Launches a race_tabletop_segmentation node(let). Remaps all parameters.-->
+<launch>
+<arg name="use_nodelets" default="0"/> <!-- this flag will configure a nodes or nodelets based system-->
+<arg name="name" default="tabletop_segmentation_default"/>
+<arg name="nodelet_manager_name" default="nodelet_manager"/>
+<arg name="point_cloud_in_topic" default="/camera/depth_registered/points"/>
+
+	<group if="$(arg use_nodelets)"> <!-- with nodelets -->
+		<node pkg="nodelet" type="nodelet" name="$(arg name)" output="screen" required="true" args="load race_tabletop_segmentation/RaceTabletopSegmentorNodelet $(arg nodelet_manager_name)">
+			<!--topic remapping-->
+			<remap from="~cloud_in" to="$(arg point_cloud_in_topic)" />
+			<!--param loading-->
+			<rosparam command="load" file="$(find race_tabletop_segmentation)/params/default_params.yaml" />
+		</node>
+	</group>
+
+	<group unless="$(arg use_nodelets)"> <!-- with nodes -->
+	    <node pkg="race_tabletop_segmentation" type="race_tabletop_segmentation_node" name="$(arg name)" output="screen" >
+			<!--topic remapping-->
+			<remap from="~cloud_in" to="$(arg point_cloud_in_topic)" />
+			<!--param loading-->
+			<rosparam command="load" file="$(find race_tabletop_segmentation)/params/default_params.yaml" />
+	    </node>
+	</group>
+</launch>

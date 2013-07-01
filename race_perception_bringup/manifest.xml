@@ -1,0 +1,16 @@
+<package>
+  <description brief="race_perception_bringup">
+
+     race_perception_bringup
+
+  </description>
+  <author>MiguelOliveira</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/race_perception_bringup</url>
+  <depend package="race_3d_object_tracking"/>
+  <depend package="race_object_detection"/>
+  <depend package="race_tabletop_segmentation"/>
+</package>
+
+

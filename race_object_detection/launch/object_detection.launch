@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!-- Launches a race_object_detection node or nodelet. All possible parameters are listed below to serve as an example -->
+<launch>
+<arg name="use_nodelets" default="0"/> <!-- this flag will configure a nodes or nodelets based system-->
+<arg name="name" default="object_detection_default"/>
+<arg name="nodelet_manager_name" default="nodelet_manager"/>
+<arg name="point_cloud_in_topic" default="/camera/depth_registered/points"/>
+<arg name="segmentation_service" default="/tabletop_segmentation/segmentation_srv"/>
+<arg name="table_frame_id" default="/tabletop_segmentation/table"/>
+
+		<group if="$(arg use_nodelets)"> <!-- with nodelets -->
+			<node pkg="nodelet" type="nodelet" name="$(arg name)" output="screen" required="true" args="load race_object_detection/RaceObjectDetectionNodelet $(arg nodelet_manager_name)">
+				<!--Must use ~ in remappings so they are private-->
+				<remap from="~point_cloud_in_topic" to="$(arg point_cloud_in_topic)"/>
+				<remap from="~segmentation_service" to="$(arg segmentation_service)"/>
+				<remap from="~table_frame_id" to="$(arg table_frame_id)" />
+				<!--param loading-->
+			</node>
+		</group>
+		
+		<group unless="$(arg use_nodelets)"> <!-- with nodes -->
+			<node pkg="race_object_detection" type="object_detection_node" name="$(arg name)" output="screen" required="true">
+				<!--Must use ~ in remappings so they are private-->
+				<remap from="~point_cloud_in_topic" to="$(arg point_cloud_in_topic)"/>
+				<remap from="~segmentation_service" to="$(arg segmentation_service)"/>
+				<remap from="~table_frame_id" to="$(arg table_frame_id)" />
+				<!--param loading-->
+			</node>
+		</group>
+</launch>	

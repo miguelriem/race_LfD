@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!-- Launches a race_3d_tracking node or nodelet. All possible parameters are listed below to serve as an example -->
+<launch>
+<arg name="use_nodelets" default="0"/> <!-- this flag will configure a nodes or nodelets based system-->
+<arg name="name" default="tracker_default"/>
+<arg name="nodelet_manager_name" default="nodelet_manager"/>
+<arg name="point_cloud_in_topic" default="/camera/depth_registered/points"/>
+<arg name="parent_frame_id" default="/camera_rgb_optical_frame"/>
+<arg name="initial_object_pc_path" default="$(find race_3d_object_tracking)/pcd/obj1.pcd"/>
+
+		<group if="$(arg use_nodelets)"> <!-- with nodelets -->
+			<node pkg="nodelet" type="nodelet" name="$(arg name)" output="screen" required="true" args="load race_3d_object_tracking/race_3d_object_tracking_nodelet $(arg nodelet_manager_name)">
+				<!--Must use ~ in remappings so they are private-->
+				<remap from="~point_cloud_in_topic" to="$(arg point_cloud_in_topic)"/>
+				<remap from="~parent_frame_id" to="$(arg parent_frame_id)"/>
+
+				<!--param loading-->
+				<param name="initial_object_pc_path" value="$(arg initial_object_pc_path)"/>
+				<rosparam command="load" file="$(find race_3d_object_tracking)/params/default_params.yaml" />
+			</node>
+		</group>
+		
+		<group unless="$(arg use_nodelets)"> <!-- with nodes -->
+			<node pkg="race_3d_object_tracking" type="object_tracking_node" name="$(arg name)" output="screen" required="true">
+				<!--Must use ~ in remappings so they are private-->
+				<remap from="~point_cloud_in_topic" to="$(arg point_cloud_in_topic)"/>
+				<remap from="~parent_frame_id" to="$(arg parent_frame_id)"/>
+
+				<!--param loading-->
+				<param name="initial_object_pc_path" value="$(arg initial_object_pc_path)"/>
+				<rosparam command="load" file="$(find race_3d_object_tracking)/params/default_params.yaml" />
+			</node>
+		</group>
+
+<!--All possible parameters are set here just for completeness' sake-->
+<!--<param name="delta" value="0.8"/>-->
+<!--<param name="maxparticlenum" value="400"/>-->
+<!--<param name="epsilon" value="0.2"/>-->
+<!--<param name="bin" value="0.1"/>-->
+<!--<param name="color_r" value="0.0"/>-->
+<!--<param name="color_g" value="0.0"/>-->
+<!--<param name="color_b" value="1.0"/>-->
+<!--<param name="color_a" value="0.1"/>-->
+<!--<param name="initial_orientation_q_x" value="0."/>-->
+<!--<param name="initial_orientation_q_y" value="0."/>-->
+<!--<param name="initial_orientation_q_z" value="1."/>-->
+<!--<param name="initial_orientation_q_w" value="1."/>-->
+</launch>	

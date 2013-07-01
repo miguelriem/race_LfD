@@ -1,10 +1,6 @@
 <!-- Spawns a tracker for a given object -->
 <launch>
 
-
-<!-- Run all the normal processing stuff but tell openni.launch not to
-actually get any data from a real kinect (that will be supplied by the bag -->
-
 	<group ns="/tracking">
 		<node pkg="race_3d_object_tracking" type="object_tracking_node" name="$(arg object_id)" output="screen" required="true">
 		<param name="parent_frame_id" value="$(arg parent_frame_id)"/>

@@ -1,0 +1,7 @@
+<library path="lib/librace_object_detection">
+	<class name="race_object_detection/RaceObjectDetectionNodelet" type="race_object_detection::RaceObjectDetectionNodelet" base_class_type="nodelet::Nodelet">
+	<description> 
+		Launches a race_object detection nodelet. 
+	</description>
+	</class>
+</library>

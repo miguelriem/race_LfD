@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!-- This is a launch file for an exmaple on how to bringup of the race perception architecture-->
+<launch>
+<!-- this flag will configure a nodes or nodelets based system-->
+<arg name="use_nodelets" default="0"/>
+
+	<group ns="/perception">
+		
+		<group if="$(arg use_nodelets)">
+			<!-- Launches the nodelet_manager -->
+			<node pkg="nodelet" type="nodelet" name="nodelet_manager"  args="manager" output="screen" required="true"/>
+		</group>
+
+		<!--Launches a race_tabletop_segmentation node(let) -->
+		<include file="$(find race_tabletop_segmentation)/launch/tabletop_segmentation.launch">
+			<arg name="use_nodelets" value="$(arg use_nodelets)" />
+			<arg name="name" value="tabletop_segmentation" />
+			<arg name="nodelet_manager_name" value="/perception/nodelet_manager" />
+			<arg name="point_cloud_in_topic" value="/camera/depth_registered/points" />
+		</include>
+
+		<!--Launches a race_object_detection node(let)-->
+		<include file="$(find race_object_detection)/launch/object_detection.launch">
+			<arg name="use_nodelets" value="$(arg use_nodelets)" />
+			<arg name="name" value="object_detection" />
+			<arg name="nodelet_manager_name" value="/perception/nodelet_manager" />
+			<arg name="point_cloud_in_topic" value="/camera/depth_registered/points" />
+			<arg name="segmentation_service" value="/perception/tabletop_segmentation/segmentation_srv" />
+			<arg name="table_frame_id" value="/perception/tabletop_segmentation/table" />
+		</include>
+
+
+		<!--Tracking namespace-->
+		<!--<group ns="tracking"> 		-->
+			<!--[>Launches a race_3d_object_tracking node(let) <]-->
+			<!--<include file="$(find race_3d_object_tracking)/launch/tracker.launch">-->
+				<!--<arg name="use_nodelets" value="$(arg use_nodelets)" />-->
+				<!--<arg name="name" value="tracker1" />-->
+				<!--<arg name="nodelet_manager_name" value="/perception/nodelet_manager" />-->
+			<!--</include>-->
+		<!--</group> [> end tracking group<]-->
+
+	</group>
+</launch>

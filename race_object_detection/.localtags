@@ -1,0 +1,401 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ARCHITECTURE_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	193;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	196;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	199;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	202;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	206;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	181;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	184;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	187;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	190;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	194;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	193;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	196;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	199;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	202;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	206;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	181;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	184;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	187;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	190;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	194;"	d	file:
+CMAKE_BINARY_DIR	Makefile	/^CMAKE_BINARY_DIR = \/home\/mike\/workingcopy\/race_LfD\/race_object_detection$/;"	m
+CMAKE_BINARY_DIR	build/Makefile	/^CMAKE_BINARY_DIR = \/home\/mike\/workingcopy\/race_LfD\/race_object_detection\/build$/;"	m
+CMAKE_COMMAND	Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	Makefile	/^CMAKE_SOURCE_DIR = \/home\/mike\/workingcopy\/race_LfD\/race_object_detection$/;"	m
+CMAKE_SOURCE_DIR	build/Makefile	/^CMAKE_SOURCE_DIR = \/home\/mike\/workingcopy\/race_LfD\/race_object_detection$/;"	m
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	10;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	13;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	16;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	19;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	22;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	25;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	28;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	32;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	34;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	36;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	40;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	43;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	46;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	49;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	52;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	55;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	58;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	61;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	66;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	77;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	80;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	86;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	89;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	92;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	12;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	18;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	30;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	34;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	36;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	38;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	42;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	45;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	48;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	51;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	54;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	57;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	60;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	68;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	74;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	77;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	80;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	9;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	10;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	13;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	16;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	19;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	22;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	25;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	28;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	32;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	34;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	36;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	40;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	43;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	46;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	49;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	52;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	55;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	58;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	61;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	66;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	77;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	80;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	86;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	89;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	92;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	12;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	18;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	30;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	34;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	36;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	38;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	42;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	45;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	48;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	51;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	54;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	57;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	60;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	68;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	74;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	77;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	80;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	9;"	d	file:
+DEBUG	include/race_object_detection/race_object_detection.h	38;"	d
+ID_VOID_MAIN	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	6;"	d	file:
+ID_VOID_MAIN	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	6;"	d	file:
+OBJECTS	include/race_object_detection/race_object_detection.h	/^			std::vector<PointCloudPtr_T> OBJECTS; \/\/a std vector of point cloud smart pointers to store all objects on the table$/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+PFLN	include/race_object_detection/race_object_detection.h	39;"	d
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	104;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	107;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	110;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	113;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	116;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	119;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	122;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	125;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	128;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	131;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	134;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	137;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	140;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	146;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	149;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	152;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	155;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	158;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	161;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	164;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	167;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	170;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	173;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	176;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	179;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	182;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	101;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	107;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	113;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	116;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	128;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	134;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	140;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	143;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	149;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	152;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	158;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	164;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	170;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	92;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	95;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	104;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	107;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	110;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	113;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	116;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	119;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	122;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	125;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	128;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	131;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	134;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	137;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	140;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	146;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	149;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	152;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	155;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	158;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	161;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	164;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	167;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	170;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	173;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	176;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	179;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	182;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	101;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	107;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	113;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	116;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	128;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	134;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	140;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	143;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	149;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	152;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	158;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	164;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	170;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	92;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	95;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+PLUGINLIB_DECLARE_CLASS	include/race_object_detection/race_object_detection.h	/^	PLUGINLIB_DECLARE_CLASS(race_object_detection, RaceObjectDetectionNodelet, race_object_detection::RaceObjectDetectionNodelet, nodelet::Nodelet);$/;"	p	namespace:race_object_detection	signature:(race_object_detection, RaceObjectDetectionNodelet, race_object_detection::RaceObjectDetectionNodelet, nodelet::Nodelet)
+PointCloudPtr_T	include/race_object_detection/object_data.h	/^typedef pcl17::PointCloud<Point_T>::Ptr PointCloudPtr_T;$/;"	t
+PointCloud_T	include/race_object_detection/object_data.h	/^typedef pcl17::PointCloud<Point_T> PointCloud_T;$/;"	t
+Point_T	include/race_object_detection/object_data.h	/^typedef pcl17::PointXYZRGB Point_T;$/;"	t
+RM	Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RM	build/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RaceObjectDetection	include/race_object_detection/race_object_detection.h	/^			RaceObjectDetection(){_flg_is_nodelet=true;};$/;"	f	class:race_object_detection::RaceObjectDetection	access:public	signature:()
+RaceObjectDetection	include/race_object_detection/race_object_detection.h	/^			RaceObjectDetection(ros::NodeHandle* n)$/;"	f	class:race_object_detection::RaceObjectDetection	access:public	signature:(ros::NodeHandle* n)
+RaceObjectDetection	include/race_object_detection/race_object_detection.h	/^		class RaceObjectDetection: public nodelet::Nodelet $/;"	c	namespace:race_object_detection	inherits:nodelet::Nodelet
+RaceObjectDetectionNodelet	include/race_object_detection/race_object_detection.h	/^	class RaceObjectDetectionNodelet: public RaceObjectDetection<pcl17::PointXYZRGB>{};$/;"	c	namespace:race_object_detection	inherits:RaceObjectDetection
+SHELL	Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SUCCESS	include/race_object_detection/race_object_detection.h	37;"	d
+SUFFIXES	Makefile	/^SUFFIXES =$/;"	m
+SUFFIXES	build/Makefile	/^SUFFIXES =$/;"	m
+_OBJECT_DATA_H_	include/race_object_detection/object_data.h	2;"	d
+_RACE_OBJECT_DETECION_H_	include/race_object_detection/race_object_detection.h	2;"	d
+_RACE_OBJECT_DETECTION_CPP_	src/race_object_detection.cpp	2;"	d	file:
+_flg_is_nodelet	include/race_object_detection/race_object_detection.h	/^			bool _flg_is_nodelet; \/\/a flag to check if this code is running as a node or a nodelet$/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+_name	include/race_object_detection/race_object_detection.h	/^			string _name;$/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+_nh	include/race_object_detection/race_object_detection.h	/^			ros::NodeHandle _nh; \/\/ The node handle$/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+_number_of_generated_objects	include/race_object_detection/race_object_detection.h	/^			size_t _number_of_generated_objects;$/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+_p_nh	include/race_object_detection/race_object_detection.h	/^			ros::NodeHandle* _p_nh; \/\/ The pointer to the node handle$/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+_p_pcin_subscriber	include/race_object_detection/race_object_detection.h	/^			boost::shared_ptr<Subscriber> _p_pcin_subscriber; $/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+_p_priv_nh	include/race_object_detection/race_object_detection.h	/^			ros::NodeHandle* _p_priv_nh; \/\/ The node handle$/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+_p_tabletop_segmentation_service_client	include/race_object_detection/race_object_detection.h	/^			boost::shared_ptr<ServiceClient> _p_tabletop_segmentation_service_client;$/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+_p_transform_listener	include/race_object_detection/race_object_detection.h	/^			boost::shared_ptr<TransformListener> _p_transform_listener; $/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+_point_cloud_in_topic	include/race_object_detection/race_object_detection.h	/^			string _point_cloud_in_topic;$/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+_priv_nh	include/race_object_detection/race_object_detection.h	/^			ros::NodeHandle _priv_nh; \/\/ The node handle$/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+_segmentation_service	include/race_object_detection/race_object_detection.h	/^			string _segmentation_service;$/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+c_object_data	include/race_object_detection/object_data.h	/^		c_object_data(size_t obj_num, std::string top_namespace, ros::NodeHandle* n, std_msgs::ColorRGBA c, PointCloudPtr_T pc_in)$/;"	f	class:c_object_data	access:public	signature:(size_t obj_num, std::string top_namespace, ros::NodeHandle* n, std_msgs::ColorRGBA c, PointCloudPtr_T pc_in)
+c_object_data	include/race_object_detection/object_data.h	/^class c_object_data$/;"	c
+c_object_data::__anon1::command	include/race_object_detection/object_data.h	/^			std::string command;$/;"	m	struct:c_object_data::__anon1	access:public
+c_object_data::__anon1::obj	include/race_object_detection/object_data.h	/^			std::string obj;$/;"	m	struct:c_object_data::__anon1	access:public
+c_object_data::__anon1::path_to_pcd	include/race_object_detection/object_data.h	/^			std::string path_to_pcd;$/;"	m	struct:c_object_data::__anon1	access:public
+c_object_data::__anon1::tf	include/race_object_detection/object_data.h	/^			std::string tf;$/;"	m	struct:c_object_data::__anon1	access:public
+c_object_data::__anon1::tracker_info	include/race_object_detection/object_data.h	/^			std::string tracker_info;$/;"	m	struct:c_object_data::__anon1	access:public
+c_object_data::__anon2::tracker	include/race_object_detection/object_data.h	/^			race_3d_object_tracking::tracker_info tracker;$/;"	m	struct:c_object_data::__anon2	access:public
+c_object_data::__anon3::sub_info	include/race_object_detection/object_data.h	/^			ros::Subscriber sub_info;$/;"	m	struct:c_object_data::__anon3	access:public
+c_object_data::__anon3::tf_listener	include/race_object_detection/object_data.h	/^			tf::TransformListener tf_listener;$/;"	m	struct:c_object_data::__anon3	access:public
+c_object_data::__anon4::received_first_info_msg	include/race_object_detection/object_data.h	/^			bool received_first_info_msg;$/;"	m	struct:c_object_data::__anon4	access:public
+c_object_data::c_object_data	include/race_object_detection/object_data.h	/^		c_object_data(size_t obj_num, std::string top_namespace, ros::NodeHandle* n, std_msgs::ColorRGBA c, PointCloudPtr_T pc_in)$/;"	f	class:c_object_data	access:public	signature:(size_t obj_num, std::string top_namespace, ros::NodeHandle* n, std_msgs::ColorRGBA c, PointCloudPtr_T pc_in)
+c_object_data::callback_tracker_info	include/race_object_detection/object_data.h	/^		void callback_tracker_info(const race_3d_object_tracking::tracker_info& msg_in)$/;"	f	class:c_object_data	access:public	signature:(const race_3d_object_tracking::tracker_info& msg_in)
+c_object_data::centroid	include/race_object_detection/object_data.h	/^		Eigen::Vector4f centroid;$/;"	m	class:c_object_data	access:public
+c_object_data::cloud_in_local	include/race_object_detection/object_data.h	/^				PointCloudPtr_T cloud_in_local = (PointCloudPtr_T)new PointCloud_T;$/;"	l
+c_object_data::cloud_out_local	include/race_object_detection/object_data.h	/^				PointCloudPtr_T cloud_out_local = (PointCloudPtr_T)new PointCloud_T;$/;"	l
+c_object_data::color	include/race_object_detection/object_data.h	/^		std_msgs::ColorRGBA color;$/;"	m	class:c_object_data	access:public
+c_object_data::condrem	include/race_object_detection/object_data.h	/^				pcl17::ConditionalRemoval<Point_T> condrem (range_cond);$/;"	p	signature:(range_cond)
+c_object_data::d	include/race_object_detection/object_data.h	/^				ros::Duration d = ros::Time::now() -t;$/;"	l
+c_object_data::data	include/race_object_detection/object_data.h	/^		}data;$/;"	m	class:c_object_data	typeref:struct:c_object_data::__anon2	access:public
+c_object_data::flg	include/race_object_detection/object_data.h	/^		}flg;$/;"	m	class:c_object_data	typeref:struct:c_object_data::__anon4	access:private
+c_object_data::is_pointed_to	include/race_object_detection/object_data.h	/^		bool is_pointed_to;$/;"	m	class:c_object_data	access:public
+c_object_data::lookupTransform	include/race_object_detection/object_data.h	/^						ros.tf_listener.lookupTransform(data.tracker.parent_frame_id, data.tracker.object_frame_id, pc_in->header.stamp, trf);$/;"	p	signature:(data.tracker.parent_frame_id, data.tracker.object_frame_id, pc_in->header.stamp, trf)
+c_object_data::names	include/race_object_detection/object_data.h	/^		}names;$/;"	m	class:c_object_data	typeref:struct:c_object_data::__anon1	access:public
+c_object_data::range_cond	include/race_object_detection/object_data.h	/^				boost::shared_ptr<pcl17::ConditionOr<Point_T> > range_cond(new pcl17::ConditionOr<Point_T>());$/;"	p	signature:(new pcl17::ConditionOr<Point_T>())
+c_object_data::remove_points_inside_object_bb	include/race_object_detection/object_data.h	/^		bool remove_points_inside_object_bb(PointCloudPtr_T pc_in, PointCloudPtr_T pc_out)$/;"	f	class:c_object_data	access:public	signature:(PointCloudPtr_T pc_in, PointCloudPtr_T pc_out)
+c_object_data::reset	include/race_object_detection/object_data.h	/^				cloud_in_local.reset();$/;"	p	signature:()
+c_object_data::reset	include/race_object_detection/object_data.h	/^				cloud_out_local.reset();$/;"	p	signature:()
+c_object_data::ros	include/race_object_detection/object_data.h	/^		}ros;$/;"	m	class:c_object_data	typeref:struct:c_object_data::__anon3	access:private
+c_object_data::setInputCloud	include/race_object_detection/object_data.h	/^				condrem.setInputCloud (cloud_out_local);$/;"	p	signature:(cloud_out_local)
+c_object_data::setKeepOrganized	include/race_object_detection/object_data.h	/^				condrem.setKeepOrganized(false);$/;"	p	signature:(false)
+c_object_data::shared_ptr	include/race_object_detection/object_data.h	/^				range_cond->addComparison (boost::shared_ptr< const pcl17::FieldComparison<Point_T> > $/;"	p	signature:(new pcl17::FieldComparison<Point_T> (Ó, pcl17::ComparisonOps::GT, data.tracker.bb_dx/2))
+c_object_data::shared_ptr	include/race_object_detection/object_data.h	/^				range_cond->addComparison (boost::shared_ptr< const pcl17::FieldComparison<Point_T> > $/;"	p	signature:(new pcl17::FieldComparison<Point_T> (Ó, pcl17::ComparisonOps::GT, data.tracker.bb_dy/2))
+c_object_data::shared_ptr	include/race_object_detection/object_data.h	/^				range_cond->addComparison (boost::shared_ptr< const pcl17::FieldComparison<Point_T> > $/;"	p	signature:(new pcl17::FieldComparison<Point_T> (Ó, pcl17::ComparisonOps::GT, data.tracker.bb_dz/2))
+c_object_data::shared_ptr	include/race_object_detection/object_data.h	/^				range_cond->addComparison (boost::shared_ptr< const pcl17::FieldComparison<Point_T> > $/;"	p	signature:(new pcl17::FieldComparison<Point_T> (Ó, pcl17::ComparisonOps::LT, -data.tracker.bb_dx/2))
+c_object_data::shared_ptr	include/race_object_detection/object_data.h	/^				range_cond->addComparison (boost::shared_ptr< const pcl17::FieldComparison<Point_T> > $/;"	p	signature:(new pcl17::FieldComparison<Point_T> (Ó, pcl17::ComparisonOps::LT, -data.tracker.bb_dy/2))
+c_object_data::shared_ptr	include/race_object_detection/object_data.h	/^				range_cond->addComparison (boost::shared_ptr< const pcl17::FieldComparison<Point_T> > $/;"	p	signature:(new pcl17::FieldComparison<Point_T> (Ó, pcl17::ComparisonOps::LT, -data.tracker.bb_dz/2))
+c_object_data::sphere_radius	include/race_object_detection/object_data.h	/^		double sphere_radius;$/;"	m	class:c_object_data	access:public
+c_object_data::t	include/race_object_detection/object_data.h	/^				ros::Time t = ros::Time::now();$/;"	l
+c_object_data::trf	include/race_object_detection/object_data.h	/^				tf::StampedTransform trf;$/;"	l
+c_object_data::write	include/race_object_detection/object_data.h	/^			writer.write<Point_T> (names.path_to_pcd, *pc_in, false);$/;"	p	signature:(names.path_to_pcd, *pc_in, false)
+c_object_data::writer	include/race_object_detection/object_data.h	/^			pcl17::PCDWriter writer; $/;"	l
+callback_tracker_info	include/race_object_detection/object_data.h	/^		void callback_tracker_info(const race_3d_object_tracking::tracker_info& msg_in)$/;"	f	class:c_object_data	access:public	signature:(const race_3d_object_tracking::tracker_info& msg_in)
+centroid	include/race_object_detection/object_data.h	/^		Eigen::Vector4f centroid;$/;"	m	class:c_object_data	access:public
+cloud_in_local	include/race_object_detection/object_data.h	/^				PointCloudPtr_T cloud_in_local = (PointCloudPtr_T)new PointCloud_T;$/;"	l
+cloud_out_local	include/race_object_detection/object_data.h	/^				PointCloudPtr_T cloud_out_local = (PointCloudPtr_T)new PointCloud_T;$/;"	l
+cm_object	include/race_object_detection/race_object_detection.h	/^			boost::shared_ptr<class_colormap_utils> cm_object;$/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+color	include/race_object_detection/object_data.h	/^		std_msgs::ColorRGBA color;$/;"	m	class:c_object_data	access:public
+command	include/race_object_detection/object_data.h	/^			std::string command;$/;"	m	struct:c_object_data::__anon1	access:public
+condrem	include/race_object_detection/object_data.h	/^				pcl17::ConditionalRemoval<Point_T> condrem (range_cond);$/;"	p	signature:(range_cond)
+d	include/race_object_detection/object_data.h	/^				ros::Duration d = ros::Time::now() -t;$/;"	l
+data	include/race_object_detection/object_data.h	/^		}data;$/;"	m	class:c_object_data	typeref:struct:c_object_data::__anon2	access:public
+erase	include/race_object_detection/race_object_detection.h	/^				OBJECTS.erase(OBJECTS.begin(), OBJECTS.end());$/;"	p	signature:(OBJECTS.begin(), OBJECTS.end())
+flg	include/race_object_detection/object_data.h	/^		}flg;$/;"	m	class:c_object_data	typeref:struct:c_object_data::__anon4	access:private
+flg_continue	include/race_object_detection/race_object_detection.h	/^				bool flg_continue = true; \/\/a flag to signal if any operation went wrong$/;"	l
+info_arch	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_platform	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+is_pointed_to	include/race_object_detection/object_data.h	/^		bool is_pointed_to;$/;"	m	class:c_object_data	access:public
+lookupTransform	include/race_object_detection/object_data.h	/^						ros.tf_listener.lookupTransform(data.tracker.parent_frame_id, data.tracker.object_frame_id, pc_in->header.stamp, trf);$/;"	p	signature:(data.tracker.parent_frame_id, data.tracker.object_frame_id, pc_in->header.stamp, trf)
+main	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^int main(int argc, char* argv[])$/;"	f	signature:(int argc, char* argv[])
+main	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f	signature:(int argc, char* argv[])
+main	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^int main(int argc, char* argv[])$/;"	f	signature:(int argc, char* argv[])
+main	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f	signature:(int argc, char* argv[])
+names	include/race_object_detection/object_data.h	/^		}names;$/;"	m	class:c_object_data	typeref:struct:c_object_data::__anon1	access:public
+obj	include/race_object_detection/object_data.h	/^			std::string obj;$/;"	m	struct:c_object_data::__anon1	access:public
+onInit	include/race_object_detection/race_object_detection.h	/^			void onInit(void)$/;"	f	class:race_object_detection::RaceObjectDetection	access:public	signature:(void)
+path_to_pcd	include/race_object_detection/object_data.h	/^			std::string path_to_pcd;$/;"	m	struct:c_object_data::__anon1	access:public
+point_cloud_in_callback	include/race_object_detection/race_object_detection.h	/^			void point_cloud_in_callback(const sensor_msgs::PointCloud2Ptr& pcmsg_in)$/;"	f	class:race_object_detection::RaceObjectDetection	access:public	signature:(const sensor_msgs::PointCloud2Ptr& pcmsg_in)
+race_object_detection	include/race_object_detection/race_object_detection.h	/^namespace race_object_detection$/;"	n
+race_object_detection::PLUGINLIB_DECLARE_CLASS	include/race_object_detection/race_object_detection.h	/^	PLUGINLIB_DECLARE_CLASS(race_object_detection, RaceObjectDetectionNodelet, race_object_detection::RaceObjectDetectionNodelet, nodelet::Nodelet);$/;"	p	namespace:race_object_detection	signature:(race_object_detection, RaceObjectDetectionNodelet, race_object_detection::RaceObjectDetectionNodelet, nodelet::Nodelet)
+race_object_detection::RaceObjectDetection	include/race_object_detection/race_object_detection.h	/^		class RaceObjectDetection: public nodelet::Nodelet $/;"	c	namespace:race_object_detection	inherits:nodelet::Nodelet
+race_object_detection::RaceObjectDetection::OBJECTS	include/race_object_detection/race_object_detection.h	/^			std::vector<PointCloudPtr_T> OBJECTS; \/\/a std vector of point cloud smart pointers to store all objects on the table$/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+race_object_detection::RaceObjectDetection::RaceObjectDetection	include/race_object_detection/race_object_detection.h	/^			RaceObjectDetection(){_flg_is_nodelet=true;};$/;"	f	class:race_object_detection::RaceObjectDetection	access:public	signature:()
+race_object_detection::RaceObjectDetection::RaceObjectDetection	include/race_object_detection/race_object_detection.h	/^			RaceObjectDetection(ros::NodeHandle* n)$/;"	f	class:race_object_detection::RaceObjectDetection	access:public	signature:(ros::NodeHandle* n)
+race_object_detection::RaceObjectDetection::_flg_is_nodelet	include/race_object_detection/race_object_detection.h	/^			bool _flg_is_nodelet; \/\/a flag to check if this code is running as a node or a nodelet$/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+race_object_detection::RaceObjectDetection::_name	include/race_object_detection/race_object_detection.h	/^			string _name;$/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+race_object_detection::RaceObjectDetection::_nh	include/race_object_detection/race_object_detection.h	/^			ros::NodeHandle _nh; \/\/ The node handle$/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+race_object_detection::RaceObjectDetection::_number_of_generated_objects	include/race_object_detection/race_object_detection.h	/^			size_t _number_of_generated_objects;$/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+race_object_detection::RaceObjectDetection::_p_nh	include/race_object_detection/race_object_detection.h	/^			ros::NodeHandle* _p_nh; \/\/ The pointer to the node handle$/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+race_object_detection::RaceObjectDetection::_p_pcin_subscriber	include/race_object_detection/race_object_detection.h	/^			boost::shared_ptr<Subscriber> _p_pcin_subscriber; $/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+race_object_detection::RaceObjectDetection::_p_priv_nh	include/race_object_detection/race_object_detection.h	/^			ros::NodeHandle* _p_priv_nh; \/\/ The node handle$/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+race_object_detection::RaceObjectDetection::_p_tabletop_segmentation_service_client	include/race_object_detection/race_object_detection.h	/^			boost::shared_ptr<ServiceClient> _p_tabletop_segmentation_service_client;$/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+race_object_detection::RaceObjectDetection::_p_transform_listener	include/race_object_detection/race_object_detection.h	/^			boost::shared_ptr<TransformListener> _p_transform_listener; $/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+race_object_detection::RaceObjectDetection::_point_cloud_in_topic	include/race_object_detection/race_object_detection.h	/^			string _point_cloud_in_topic;$/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+race_object_detection::RaceObjectDetection::_priv_nh	include/race_object_detection/race_object_detection.h	/^			ros::NodeHandle _priv_nh; \/\/ The node handle$/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+race_object_detection::RaceObjectDetection::_segmentation_service	include/race_object_detection/race_object_detection.h	/^			string _segmentation_service;$/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+race_object_detection::RaceObjectDetection::cm_object	include/race_object_detection/race_object_detection.h	/^			boost::shared_ptr<class_colormap_utils> cm_object;$/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+race_object_detection::RaceObjectDetection::erase	include/race_object_detection/race_object_detection.h	/^				OBJECTS.erase(OBJECTS.begin(), OBJECTS.end());$/;"	p	signature:(OBJECTS.begin(), OBJECTS.end())
+race_object_detection::RaceObjectDetection::flg_continue	include/race_object_detection/race_object_detection.h	/^				bool flg_continue = true; \/\/a flag to signal if any operation went wrong$/;"	l
+race_object_detection::RaceObjectDetection::onInit	include/race_object_detection/race_object_detection.h	/^			void onInit(void)$/;"	f	class:race_object_detection::RaceObjectDetection	access:public	signature:(void)
+race_object_detection::RaceObjectDetection::point_cloud_in_callback	include/race_object_detection/race_object_detection.h	/^			void point_cloud_in_callback(const sensor_msgs::PointCloud2Ptr& pcmsg_in)$/;"	f	class:race_object_detection::RaceObjectDetection	access:public	signature:(const sensor_msgs::PointCloud2Ptr& pcmsg_in)
+race_object_detection::RaceObjectDetection::tabletop_segmentation	include/race_object_detection/race_object_detection.h	/^			tabletop_object_detector::TabletopSegmentation tabletop_segmentation;$/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+race_object_detection::RaceObjectDetection::~RaceObjectDetection	include/race_object_detection/race_object_detection.h	/^			~RaceObjectDetection()$/;"	f	class:race_object_detection::RaceObjectDetection	access:public	signature:()
+race_object_detection::RaceObjectDetectionNodelet	include/race_object_detection/race_object_detection.h	/^	class RaceObjectDetectionNodelet: public RaceObjectDetection<pcl17::PointXYZRGB>{};$/;"	c	namespace:race_object_detection	inherits:RaceObjectDetection
+range_cond	include/race_object_detection/object_data.h	/^				boost::shared_ptr<pcl17::ConditionOr<Point_T> > range_cond(new pcl17::ConditionOr<Point_T>());$/;"	p	signature:(new pcl17::ConditionOr<Point_T>())
+received_first_info_msg	include/race_object_detection/object_data.h	/^			bool received_first_info_msg;$/;"	m	struct:c_object_data::__anon4	access:public
+remove_points_inside_object_bb	include/race_object_detection/object_data.h	/^		bool remove_points_inside_object_bb(PointCloudPtr_T pc_in, PointCloudPtr_T pc_out)$/;"	f	class:c_object_data	access:public	signature:(PointCloudPtr_T pc_in, PointCloudPtr_T pc_out)
+require	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^  int require = 0;$/;"	l
+require	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  int require = 0;$/;"	l
+require	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^  int require = 0;$/;"	l
+require	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  int require = 0;$/;"	l
+reset	include/race_object_detection/object_data.h	/^				cloud_in_local.reset();$/;"	p	signature:()
+reset	include/race_object_detection/object_data.h	/^				cloud_out_local.reset();$/;"	p	signature:()
+ros	include/race_object_detection/object_data.h	/^		}ros;$/;"	m	class:c_object_data	typeref:struct:c_object_data::__anon3	access:private
+setInputCloud	include/race_object_detection/object_data.h	/^				condrem.setInputCloud (cloud_out_local);$/;"	p	signature:(cloud_out_local)
+setKeepOrganized	include/race_object_detection/object_data.h	/^				condrem.setKeepOrganized(false);$/;"	p	signature:(false)
+shared_ptr	include/race_object_detection/object_data.h	/^				range_cond->addComparison (boost::shared_ptr< const pcl17::FieldComparison<Point_T> > $/;"	p	signature:(new pcl17::FieldComparison<Point_T> (Ó, pcl17::ComparisonOps::GT, data.tracker.bb_dx/2))
+shared_ptr	include/race_object_detection/object_data.h	/^				range_cond->addComparison (boost::shared_ptr< const pcl17::FieldComparison<Point_T> > $/;"	p	signature:(new pcl17::FieldComparison<Point_T> (Ó, pcl17::ComparisonOps::GT, data.tracker.bb_dy/2))
+shared_ptr	include/race_object_detection/object_data.h	/^				range_cond->addComparison (boost::shared_ptr< const pcl17::FieldComparison<Point_T> > $/;"	p	signature:(new pcl17::FieldComparison<Point_T> (Ó, pcl17::ComparisonOps::GT, data.tracker.bb_dz/2))
+shared_ptr	include/race_object_detection/object_data.h	/^				range_cond->addComparison (boost::shared_ptr< const pcl17::FieldComparison<Point_T> > $/;"	p	signature:(new pcl17::FieldComparison<Point_T> (Ó, pcl17::ComparisonOps::LT, -data.tracker.bb_dx/2))
+shared_ptr	include/race_object_detection/object_data.h	/^				range_cond->addComparison (boost::shared_ptr< const pcl17::FieldComparison<Point_T> > $/;"	p	signature:(new pcl17::FieldComparison<Point_T> (Ó, pcl17::ComparisonOps::LT, -data.tracker.bb_dy/2))
+shared_ptr	include/race_object_detection/object_data.h	/^				range_cond->addComparison (boost::shared_ptr< const pcl17::FieldComparison<Point_T> > $/;"	p	signature:(new pcl17::FieldComparison<Point_T> (Ó, pcl17::ComparisonOps::LT, -data.tracker.bb_dz/2))
+sphere_radius	include/race_object_detection/object_data.h	/^		double sphere_radius;$/;"	m	class:c_object_data	access:public
+sub_info	include/race_object_detection/object_data.h	/^			ros::Subscriber sub_info;$/;"	m	struct:c_object_data::__anon3	access:public
+t	include/race_object_detection/object_data.h	/^				ros::Time t = ros::Time::now();$/;"	l
+tabletop_segmentation	include/race_object_detection/race_object_detection.h	/^			tabletop_object_detector::TabletopSegmentation tabletop_segmentation;$/;"	m	class:race_object_detection::RaceObjectDetection	access:public
+tf	include/race_object_detection/object_data.h	/^			std::string tf;$/;"	m	struct:c_object_data::__anon1	access:public
+tf_listener	include/race_object_detection/object_data.h	/^			tf::TransformListener tf_listener;$/;"	m	struct:c_object_data::__anon3	access:public
+tracker	include/race_object_detection/object_data.h	/^			race_3d_object_tracking::tracker_info tracker;$/;"	m	struct:c_object_data::__anon2	access:public
+tracker_info	include/race_object_detection/object_data.h	/^			std::string tracker_info;$/;"	m	struct:c_object_data::__anon1	access:public
+trf	include/race_object_detection/object_data.h	/^				tf::StampedTransform trf;$/;"	l
+write	include/race_object_detection/object_data.h	/^			writer.write<Point_T> (names.path_to_pcd, *pc_in, false);$/;"	p	signature:(names.path_to_pcd, *pc_in, false)
+writer	include/race_object_detection/object_data.h	/^			pcl17::PCDWriter writer; $/;"	l
+~RaceObjectDetection	include/race_object_detection/race_object_detection.h	/^			~RaceObjectDetection()$/;"	f	class:race_object_detection::RaceObjectDetection	access:public	signature:()

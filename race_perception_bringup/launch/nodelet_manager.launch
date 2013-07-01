@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!-- This is a launch file for the bringup of the race perception architecture-->
+<launch>
+	<!-- Launches the nodelet_manager -->
+	<node pkg="nodelet" type="nodelet" name="nodelet_manager"  args="manager" output="screen" required="true"/>
+</launch>

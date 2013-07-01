@@ -1,0 +1,7 @@
+<library path="lib/librace_tabletop_segmentation">
+	<class name="race_tabletop_segmentation/RaceTabletopSegmentorNodelet" type="race_tabletop_segmentation::RaceTabletopSegmentorNodelet" base_class_type="nodelet::Nodelet">
+	<description> 
+		Launches a race_tabletop_segmentor nodelet. Check launch/tabletopsegmentation.launch for the arguments that can be mapped.		
+	</description>
+	</class>
+</library>

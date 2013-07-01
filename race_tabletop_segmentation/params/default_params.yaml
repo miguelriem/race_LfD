@@ -1,0 +1,19 @@
+inlier_threshold: 0.02
+time_to_wait_for_pointcloud: 1.0
+filter_z_more_than: 2.1
+plane_voxel_x: 0.05
+plane_voxel_y: 0.05
+plane_voxel_z: 0.05
+object_voxel_x: 0.01
+object_voxel_y: 0.01
+object_voxel_z: 0.01
+ransac_iterations: 200
+table_clustering_step: 0.08
+table_clustering_min_size: 10
+table_clustering_max_size: 10000
+table_z_filter_min: 0.02
+table_z_filter_max: 0.6
+object_clustering_step: 0.08
+object_clustering_min_size: 10
+object_clustering_max_size: 10000
+

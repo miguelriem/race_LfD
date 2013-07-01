@@ -1,0 +1,33 @@
+<package>
+  <description brief="race_object_detection">
+
+     race_object_detection
+
+  </description>
+  <author>MiguelOliveira</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/race_object_detection</url>
+  <depend package="roscpp"/>
+<depend package="nodelet"/>
+  <depend package="sensor_msgs"/>
+  <depend package="rospy"/>
+  <depend package="tf"/>
+  <depend package="pcl17_ros"/>
+  <depend package="pcl17"/>
+  <!--<depend package="pcl_ros"/>-->
+  <!--<depend package="pcl"/>-->
+  <depend package="visualization_msgs"/>
+  <depend package="pc_processing"/>
+  <depend package="colormap_utils"/>
+  <depend package="race_3d_object_tracking"/>
+  <depend package="tabletop_object_detector"/>
+<build_depend>nodelet</build_depend>
+<run_depend>nodelet</run_depend>
+	<export>
+    	<cpp cflags="-I${prefix}/include " lflags="-L${prefix}/lib -lrace_object_detection" />
+		<nodelet plugin="${prefix}/nodelets.xml"/>
+	</export>
+</package>
+
+

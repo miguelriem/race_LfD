@@ -1,0 +1,7 @@
+<library path="lib/librace_3d_object_tracking">
+	<class name="race_3d_object_tracking/race_3d_object_tracking_nodelet" type="race_3d_object_tracking::race_3d_object_tracking_nodelet" base_class_type="nodelet::Nodelet">
+	<description> 
+		Launches a race_3d_object_tracking nodelet. Check launch/tracker_node.launch for the arguments that can be mapped.		
+	</description>
+	</class>
+</library>
